@@ -30,5 +30,6 @@ _____
 
 ### Useful Links
 * [Teaching | David Silver](https://www.davidsilver.uk/teaching/)
+* [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 * [DeepMind Learning Resources](https://deepmind.com/learning-resources)
 * [Reinforcement Learning: An Introduction by Sutton and Barto](http://incompleteideas.net/book/the-book.html)
