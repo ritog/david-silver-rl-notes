@@ -12,4 +12,4 @@ ____
 
 ____
 ### Lisence
-The contents of this repository are distributed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) Lisence. See the LISENCE file for more details.
+The contents of this repository are distributed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) Lisence. See the [LISENCE](https://github.com/ghosh-r/david-silver-rl-notes/blob/main/LISENCE) file for more details.
