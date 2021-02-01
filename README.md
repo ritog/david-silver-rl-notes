@@ -1,6 +1,6 @@
 ## David Silver Reinforcement Learning Study Notes
 
-##### by [Ritobrata Ghosh](https://ghosh-r.github.io)
+##### *by [Ritobrata Ghosh](https://ghosh-r.github.io)*
 
 A collection of Lecture Notes to read alongside [David Silver](https://www.davidsilver.uk/)'s lectures on Reinforcement Learning given on University College London in 2015.
 
@@ -29,5 +29,6 @@ The contents of this repository are distributed under the [Attribution-NonCommer
 _____
 
 ### Useful Links
+* [Teaching | David Silver](https://www.davidsilver.uk/teaching/)
 * [DeepMind Learning Resources](https://deepmind.com/learning-resources)
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+* [Reinforcement Learning: An Introduction by Sutton and Barto](http://incompleteideas.net/book/the-book.html)
