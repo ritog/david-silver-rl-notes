@@ -3,6 +3,9 @@
 ##### by [Ritobrata Ghosh](https://ghosh-r.github.io)
 
 A collection of Lecture Notes to read alongside [David Silver](https://www.davidsilver.uk/)'s lectures on Reinforcement Learning given on University College London in 2015.
+
+_____
+![David Silver in class](https://raw.githubusercontent.com/ghosh-r/david-silver-rl-notes/main/silver.jpg)
 _____
 #### [\[YouTube Playlist\]](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | [\[Slides\]](https://www.davidsilver.uk/teaching/)
 _____
